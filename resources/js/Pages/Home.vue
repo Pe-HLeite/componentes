@@ -2,9 +2,7 @@
 </script>
 
 <template>
-    <h1>Hello World -  Inertia sendo utilizado</h1>
-    Teste de edição da page
-    1
-    <br>
-    3
+    <h1 class="text-3xl font-bold text-red-600">
+        Utilizando classe tailwind
+    </h1>
 </template>
